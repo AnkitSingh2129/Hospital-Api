@@ -34,8 +34,8 @@ Certain routes require authentication using JWT tokens.
 
 ## Setup and Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/hospital-covid-api.git`
-2. Navigate to the project directory: `cd hospital_api`
+1. Clone the repository: `git clone https://github.com/AnkitSingh2129/Hospital-Api`
+2. Navigate to the project directory: `cd Hospital-Api`
 3. Install dependencies: `npm install`
 4. Run the server: `npm start`
 
